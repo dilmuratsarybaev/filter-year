@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.containerParagraph {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(73, 72, 72);
+}
+.sectionItem {
+  padding: 1rem;
+  margin: 0 auto;
+}
+.titlecontainer {
+  display: flex;
+  align-items: center;
+}
+.date {
+  margin: 0.5rem;
+  width: 4rem;
+  border: 2px solid rgb(253, 250, 250);
+  padding: 0.5rem;
+  color: white;
+  border-radius: 0.5rem;
+  font-size: 0.4rem;
+  background-color: rgb(51, 51, 52);
+}
+.titlepaper {
+  margin-left: 3rem;
+  font-size: 1.3rem;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+.price {
+  margin-right: 1rem;
+  font-size: 1rem;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 1px solid white;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  background-color: rgb(60, 6, 111);
+}

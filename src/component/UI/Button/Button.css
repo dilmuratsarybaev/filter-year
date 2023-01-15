@@ -1,0 +1,16 @@
+.AddBtn {
+  padding: 0.5rem 1rem;
+  background-color: rebeccapurple;
+  border-radius: 0.5rem;
+  border: none;
+  margin: 1rem;
+  color: white;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.containerBtn {
+  width: 50rem;
+  background-color: rgb(177, 180, 235);
+  margin: 1rem auto;
+  border-radius: 0.5rem;
+}
