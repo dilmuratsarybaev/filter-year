@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filter-year/static/css/main.dc7ef203.css",
+    "main.js": "/filter-year/static/js/main.0d61cf62.js",
+    "index.html": "/filter-year/index.html",
+    "main.dc7ef203.css.map": "/filter-year/static/css/main.dc7ef203.css.map",
+    "main.0d61cf62.js.map": "/filter-year/static/js/main.0d61cf62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc7ef203.css",
+    "static/js/main.0d61cf62.js"
+  ]
+}
